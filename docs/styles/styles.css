@@ -11,8 +11,13 @@ title {
     display: none;
 }
 
-.index-title-content {
+h1 {
+    font-size: 5rem;
+}
+
+.index-documentation-content {
     width: 60%;
     margin: auto; 
+    margin-top: 10%;
 }
 
