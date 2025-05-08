@@ -1,6 +1,8 @@
 # ia-games-project
 An IA trained to learn to play games 
 
+DOCS CON TAREAS Y TODO ACERCA DEL PROYECTO
+https://docs.google.com/document/d/1x0pAbcjZ0CysD8EJtceyn1lG94ItdRh3EFbQuRwW3Vc/edit?usp=sharing
 
 
 # Estructura dada por chagpt para la IA 
